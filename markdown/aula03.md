@@ -43,3 +43,7 @@ Outra forma
 # Imagens Locais
 
 ![Wolf](wolf.jpg "WOLF!")
+
+# Imagens da Web
+
+![Outro Wolf](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Canis_lupus_265b.jpg/800px-Canis_lupus_265b.jpg)
